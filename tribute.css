@@ -1,0 +1,34 @@
+.p1{
+    background: #020203;
+    width: 200px;
+   
+    font: 20px;
+    color: white ;
+}
+.h1{
+   text-align:centre ;
+   background: #020203;
+   ;
+   font: 20px;
+    color: white ;
+}
+img{
+    margin-left:25px;
+    margin-top:25px;
+    margin-right:auto;
+}
+.h2{
+    background: #ffdd80;
+}
+.h22{
+    background: #f8ff2b;#aafff4
+}
+.p5{
+    background: #63d1ee;
+}
+.p2{
+    background: #c595ff;
+}
+.p3{
+    background:#bfffeafd;
+}
